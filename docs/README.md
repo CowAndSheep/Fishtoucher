@@ -4,4 +4,4 @@
 
 ## electromagnetic_field
 
-## signal_and_system
+## signals_and_systems

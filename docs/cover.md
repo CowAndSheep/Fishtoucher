@@ -1,6 +1,6 @@
 <!-- docs/cover.md -->
 
-![logo](https://raw.githubusercontent.com/CowAndSheep/Fishtoucher/master/typoraimages/fish.svg)
+<img src="https://raw.githubusercontent.com/CowAndSheep/Fishtoucher/master/typoraimages/fish.svg" alt="logo" style="zoom:50%;" />
 
 # FishToucher
 
