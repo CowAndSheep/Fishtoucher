@@ -1,7 +1,6 @@
 # FishToucher
 
-## probability
+每日一题，强身健体。
 
-## electromagnetic_field
+拒绝内卷，快乐学习。
 
-## signals_and_systems
