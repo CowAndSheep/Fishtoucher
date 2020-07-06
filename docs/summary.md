@@ -7,5 +7,7 @@
   - [0701_2015公平的不公平硬币](probability/0701_2015公平的不公平硬币.md)
   - [0702_2015泊松分流](probability/0702_2015泊松分流.md)
   - [0703_2015投篮练习](probability/0703_2015投篮练习.md)
+  - [0704_2015条件期望与独立](probability/0704_2015条件期望与独立.md)
+  - [0705_2015平方条件期望](probability/0705_2015平方条件期望.md)
 - [电磁场](electromagnetic_field/ '电磁场')
 - [信号与系统](signals_and_systems/ '信号与系统')
